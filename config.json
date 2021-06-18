@@ -1,0 +1,15 @@
+{
+    "accounts": {
+        "issuer": {
+            "name": "Issuer",
+            "publicKey": "GBHPP4APL4GDX73E3IRNR2VRJJEQBO23ARLKO3ZWNXQNLT52MTO4Y3Y2",
+            "secret": "SA6HMB4HPGV45DWAADEH5LRYH2CZGTTMP7CVJ2TCQ7I7RVTIW2LWPJZ5"
+        },
+        "payee": {
+            "name": "Payee",
+            "publicKey": "GB24EVJMTEL6TI6U646XNOCFS525C3UZZQUBFCIPD5SOBX2HESKYWMBI",
+            "secret": "SAD6LRKVWJ6Y55N7AHDSFU3RYJLXO33S25MJBHD7AXOHDPXVDACW3PM7"
+        }
+    },
+    "serverUrl": "https://horizon-testnet.stellar.org"
+}
